@@ -1,1 +1,8 @@
-{"api_key": "your_api_key_here", "panel_url": "https://indonesiasmm.com"}
+
+{
+  "payment": {
+    "dana": "082213746778 a.n HAPOSAN JOSHUA",
+    "gopay": "082287767326 a.n BERSMM",
+    "ovo": "082287767326 a.n BERSMM"
+  }
+}
